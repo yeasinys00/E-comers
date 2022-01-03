@@ -19,3 +19,17 @@
     cursor: pointer;
     border-radius: 8px;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
+.cat1{
+    background-color: blueviolet;
+    
+}
+.cat2{
+    background-color: red;
+
+}
+.cat3{
+    background-color: rgb(243, 14, 243);
+}
