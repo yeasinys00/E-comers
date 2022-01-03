@@ -1,1 +1,1 @@
-# E-comers
+# E-commerce
